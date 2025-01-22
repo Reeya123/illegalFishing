@@ -52,3 +52,16 @@ The main objectives of this project include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/illegal-fishing-detection.git
+
+
+## Results and Insights
+Spatial Analysis:
+
+Detected 2,600+ high-risk vessels operating within MPAs.
+Identified hotspots of illegal fishing activity.
+Temporal Trends:
+
+Monthly time-series visualizations revealed seasonal peaks in vessel activity.
+Visual Outputs:
+
+Geospatial heatmaps and vessel trajectories for intuitive insights.
